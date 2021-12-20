@@ -64,7 +64,7 @@
 
         <!-- Test Dependency Versions -->
         <contrib.version>0.8.1</contrib.version>
-        <grpc.version>1.37.0</grpc.version>
+        <grpc.version>1.43.0</grpc.version>
         <junit.version>4.13.1</junit.version>
         <assertj.version>3.6.2</assertj.version>
         <commons-lang.version>2.6</commons-lang.version>
